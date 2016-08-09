@@ -1,0 +1,12 @@
+function camera_points = invert_projection(A, projected_points, z)
+%% inverts a projection
+
+    camera_points = [];
+    
+%   YOUR CODE GOES HERE
+    tz = [z;z];
+    hompp = cart2hom(projected_points);
+    x = 
+    
+    
+end
