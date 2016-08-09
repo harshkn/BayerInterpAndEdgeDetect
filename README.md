@@ -5,4 +5,4 @@ Bayer interpolation
 
 ![Edge detection - Derivatives](https://raw.githubusercontent.com/harshkn/BayerInterpAndEdgeDetect/master/edge-orig-deiv.png)
 
-![Edge detection - Result after Non maximum supression](https://raw.githubusercontent.com/harshkn/BayerInterpAndEdgeDetect/master/edge-result.png)
+![Edge detection - Result after Non maximum  supression](https://raw.githubusercontent.com/harshkn/BayerInterpAndEdgeDetect/master/edge-result.png)
